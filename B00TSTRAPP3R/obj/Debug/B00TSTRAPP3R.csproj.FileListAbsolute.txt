@@ -1,0 +1,7 @@
+C:\Users\Krzysiek\source\repos\B00TSTRAPP3R\B00TSTRAPP3R\bin\Debug\B00TSTRAPP3R.exe.config
+C:\Users\Krzysiek\source\repos\B00TSTRAPP3R\B00TSTRAPP3R\bin\Debug\B00TSTRAPP3R.exe
+C:\Users\Krzysiek\source\repos\B00TSTRAPP3R\B00TSTRAPP3R\bin\Debug\B00TSTRAPP3R.pdb
+C:\Users\Krzysiek\source\repos\B00TSTRAPP3R\B00TSTRAPP3R\obj\Debug\B00TSTRAPP3R.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\B00TSTRAPP3R\B00TSTRAPP3R\obj\Debug\B00TSTRAPP3R.exe
+C:\Users\Krzysiek\source\repos\B00TSTRAPP3R\B00TSTRAPP3R\obj\Debug\B00TSTRAPP3R.pdb
+C:\Users\Krzysiek\source\repos\B00TSTRAPP3R\B00TSTRAPP3R\obj\Debug\B00TSTRAPP3R.csprojAssemblyReference.cache
